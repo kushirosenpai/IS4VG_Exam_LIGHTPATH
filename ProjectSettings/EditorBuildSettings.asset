@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/InkFungus/Documentation/Interactive Documentation.unity
     guid: 8c920e91be9f3c94cbfc7ddebc9edeb8
   - enabled: 0
-    path: Assets/Scenes/Template Scene.unity
+    path: Assets/Scenes/Lightpath_Scene.unity
     guid: 891c32f806445404ab1f2226ac83b861
   m_configObjects: {}
