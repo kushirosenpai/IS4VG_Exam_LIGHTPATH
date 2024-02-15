@@ -9,12 +9,12 @@ LIGHTPATH
 ->END
 
 //Main menu 2
-=THIRTYONE
-# menu2
-+Play again
-->THIRTEEN
-+Quit
-->END
+//=THIRTYONE
+//# menu2
+//+Play again
+//->THIRTEEN
+//+Quit
+//->END
 
 //LIVING ROOM
 = THIRTEEN  
@@ -253,4 +253,4 @@ Level completed
 ->THIRTY
 
 =THIRTY
-->THIRTYONE
+->END
